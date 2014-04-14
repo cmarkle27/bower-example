@@ -1,0 +1,8 @@
+{
+    "name": "Xbar",
+    "version": "1.0.0",
+    "main": ["./xbar-min.js", "./xbar.css", "./xbar.mustache"],
+    "dependencies": {
+        "jquery": "latest"
+    }
+}
